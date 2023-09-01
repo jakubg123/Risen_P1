@@ -8,16 +8,16 @@ bash/concat: A Bash script for creating appropraite file basing on my initial da
 .ipynb
 
 
-Utilizing SVC speech-to-speech models and a process queue for executing inference commands.
+Utilizing SVC speech-to-speech models and a process queue for executing inference commands:
 inference
 
-A similar approach to "char_research," but initially experimenting with Google Cloud Platform TTS before selecting the more reliable Elevenlabs solution.
+A similar approach to "char_research," but initially experimenting with Google Cloud Platform TTS before selecting the more reliable Elevenlabs solution:
 gcloud_tts
 
-Analyzing line structures and utilizing data structures to extract data for Elevenlabs API.
+Analyzing line structures and utilizing data structures to extract data for Elevenlabs API:
 char_research 
 
-Original file structure tinkering with pandas
+Original file structure tinkering with pandas:
 audible
 inaudible
 Infos
