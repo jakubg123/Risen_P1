@@ -1,0 +1,17 @@
+#!/bin/bash
+
+input_dir="$1"
+output_dir="/home/jakubg/glupoty/Risen_Zapomniana_Cywilizacja/$input_dir"
+mkdir "$output_dir"
+output_file="$output_dir/output.mp3"
+
+cd "$input_dir" || exit 1
+
+input_list=()
+for file in *.ogg; do
+	input_list+=("-i" "$file")
+done
+
+ffmpeg "${input_list[@]}" -filter_complex "concat=n=$(ls -1 *.ogg | wc -l):v=0:a=1[outa]" -map "[outa]" "$output_file"
+
+echo "$output_file"
