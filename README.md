@@ -17,6 +17,9 @@ gcloud_tts
 Analyzing line structures and utilizing data structures to extract data for Elevenlabs API:
 char_research 
 
+Analyzing and boosting volume.
+chart
+
 Original file structure tinkering with pandas:
 audible
 inaudible
@@ -24,7 +27,7 @@ Infos
 
 
 
-Project is still in progress.
+https://www.youtube.com/watch?v=cAZ94qiR2M4&ab_channel=Risen)https://www.youtube.com/watch?v=cAZ94qiR2M4&ab_channel=Risen
 
 
 
