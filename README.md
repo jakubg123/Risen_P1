@@ -1,4 +1,4 @@
-I'm continuing my work on ML text-to-speech and speech-to-speech models, building upon my previous project, Gothic-Symetria. In this new endeavor, I'm focused on creating Polish dubbing for the game Risen I, which originally lacked Polish voiceovers, only having subtitles added a few years ago. To achieve this, 
+I'm continuing my work with ML speech-to-speech models, building upon my previous project, Gothic-Symetria. In this new endeavor, I'm focused on creating Polish dubbing for the game Risen I, which originally lacked Polish voiceovers, only having subtitles added a few years ago. To achieve this, 
 I've utilized the Elevenlabs API for character dubbing, coupled with the capabilities of SVC models, to elevate the authenticity of the voices in the game Risen I.
 
 short description of my files:
