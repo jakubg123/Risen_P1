@@ -14,8 +14,11 @@ inference
 A similar approach to "char_research," but initially experimenting with Google Cloud Platform TTS before selecting the more reliable Elevenlabs solution:
 gcloud_tts
 
-Analyzing line structures and utilizing data structures to extract data for Elevenlabs API:
-char_research 
+Analyzing line structures and utilizing data structures to extract data:
+char_research
+
+Utilizing selenium to abuse elevenlabs:
+labs
 
 Analyzing and boosting volume.
 chart
